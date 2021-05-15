@@ -1,4 +1,4 @@
-# OtomatikBitkiSulama
+# Otomatik Bitki Sulama Sistemi
 
 ##### C++ ile kodlanmıştır.
 ##### Bylnk üzerinden sulama işlemi yapabilir ve toprak değer analizlerini görüntüleyebilir .
