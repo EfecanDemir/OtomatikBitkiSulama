@@ -3,9 +3,9 @@
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 
-char token[] = "othfk6PKKeD0MG-hHhIMJzE093velTL0";
-char agAdi[] = "Kablonet Netmaster-1C9E-G"; 
-char agSifre[] = "9fdfdeac";
+char token[] = "//kart için oluşturulan token";
+char agAdi[] = "//modem ismi"; 
+char agSifre[] = "//modem şifre";
 #define sensor A0
 int deger;
 int donusum;
