@@ -1,7 +1,7 @@
 # OtomatikBitkiSulama
 
-##### C++ kodlama dilinde kodlanmıştır.
-##### Bylnk üzerinden sulama işlemi yapabilmek ve toprak değer analizlerini görebilmek.
+##### C++ ile kodlanmıştır.
+##### Bylnk üzerinden sulama işlemi yapabilir ve toprak değer analizlerini görüntüleyebilir .
 
 	
 ###### -NodeMCU LoLin ESP8266 Kartı
